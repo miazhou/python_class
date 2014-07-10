@@ -1,4 +1,1 @@
-import mymodule
-
-mymodule.sayHi()
-print 'Version is', mymodule.version
+print "Hello World!"
